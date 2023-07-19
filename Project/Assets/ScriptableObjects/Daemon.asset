@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6e180a4348c89846bcaea253ebeda32, type: 3}
+  m_Name: Daemon
+  m_EditorClassIdentifier: 
+  color: {r: 1, g: 1, b: 1, a: 1}
+  spriteScale: {x: 2, y: 2}
+  animator: {fileID: 9100000, guid: 052604a0e6075734282b419905fbfb3a, type: 2}
+  moveSpeed: 3
+  hitPoints: 50
+  score: 50
+  colliderRadius: 0.2
